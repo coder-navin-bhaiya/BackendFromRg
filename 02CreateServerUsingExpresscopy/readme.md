@@ -1,4 +1,4 @@
-# /:- ye api ko humasa last main likhna . ussa pehla sara api likhna like /about, /login, /contact, etc. Warna hamesa pehla wala api chalega chaha tum /about karo ya fir /login . chatgpt:-
+# /- ye api(i.e. /) ko humasa last main likhna . ussa pehla sara api likhna like /about, /login, /contact, etc. Warna hamesa pehla wala api chalega chaha tum /about karo ya fir /login . chatgpt:-
 Haan bhai 🔥 ab actual issue samjho.
 
 Ye route:
